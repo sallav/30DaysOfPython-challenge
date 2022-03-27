@@ -51,3 +51,8 @@ secs = datetime.now().timestamp()
 tdiff = timedelta(seconds=secs)
 
 print(tdiff)
+
+# You can use datetime module for getting timestamps, dates and times for different events, 
+# for comparing dates and times, counting time intervals,
+# to extract certain values like the day or the month or the minutes or microseconds.
+# You can compare date objects and separate the formatting to printing.
